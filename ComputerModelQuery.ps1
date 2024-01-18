@@ -1,1 +1,3 @@
-(get-wmiobject win32_computersystem).model
+# PowerShell
+
+(get-wmiobject win32_computersystem).model     
