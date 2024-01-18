@@ -1,1 +1,1 @@
-$cpumodel = (get-wmiobject win32_computersystem).model
+(get-wmiobject win32_computersystem).model
